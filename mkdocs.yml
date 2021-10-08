@@ -1,0 +1,12 @@
+site_name: 示范项目
+
+nav:
+    - Home: index.md
+    - Febao :
+        - mm_init : febao/mm_init.md
+        - mm_trading : febao/mm_trading.md
+        - mm_front : febao/mm_front.md
+        - mm_strategy : febao/mm_strategy.md
+        - mm_pricing : febao/mm_pricing.md
+        - mm_trading_proxy_ctp : febao/mm_ctp_trading_proxy.md
+        - mm_calculator : febao/mm_calculator.md
